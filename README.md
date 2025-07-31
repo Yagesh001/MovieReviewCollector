@@ -10,8 +10,6 @@ MovieReviewCollector is a full-stack web application that allows users to browse
 - 🧾 View detailed review metadata
 - 🌐 Built with MERN stack (MongoDB, Express, React, Node)
 
----
-
 ## ⚙️ Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS
